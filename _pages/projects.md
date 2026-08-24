@@ -2,7 +2,7 @@
 layout: page
 title: PROJECTS
 permalink: /projects/
-description: Selected research projects I have led or contributed to.
+#description: Selected research projects I have led or contributed to.
 nav: true
 nav_order: 3
 #display_categories: [work, fun]
