@@ -30,7 +30,7 @@ I am a postdoctoral researcher in the Bork Group at EMBL, working at the interse
 
 My research focuses on understanding the diversity, distribution, and ecological roles of microorganisms at large spatial scales, with a particular interest in nitrogen-fixing microorganisms and microbial biogeography.
 
-I develop computational approaches for analyzing genomic and metagenomic datasets and led the development of [NFixPlanet](https://nfixplanet.embl.de/), a toolkit for studying nitrogen-fixing microorganisms.
+I develop computational approaches for analyzing genomic and metagenomic datasets and led the development of [NFixPlanet](https://nfixplanet.embl.de/), a database and toolkit for studying nitrogen-fixing microorganisms.
 
 ## Research interests
 
