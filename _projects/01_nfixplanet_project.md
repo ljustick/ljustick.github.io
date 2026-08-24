@@ -2,7 +2,7 @@
 layout: page
 title: NFixPlanet
 description: A global resource for investigating nitrogen-fixing microorganisms
-img: assets/img/nfixplanet.jpg
+img: assets/img/projects/nfixplanet.jpg
 importance: 1
 #category: work
 #redirect: https://nfixplanet.embl.de/

@@ -2,7 +2,7 @@
 layout: page
 title: TREC
 description: An expedition to study coastal ecosystems and their response to the environment, from molecules to communities
-img: assets/img/20230126_TREC_Tag_RGB-s.jpg
+img: assets/img/projects/20230126_TREC_Tag_RGB-s.jpg
 #redirect: https://www.embl.org/about/info/trec/
 importance: 2
 #category: work
