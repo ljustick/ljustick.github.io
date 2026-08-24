@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ABOUT
+title: HOME
 permalink: /
 subtitle: Bioinformatician & Microbial Ecologist
 
@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>EMBL</p>
-    <p>Heidelberg, Germany</p>
+    <p>Dr. Lucas J. Ustick</p>
+    <p>EMBL Heidelberg, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,16 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in the Bork Group at EMBL, working at the intersection of bioinformatics and microbial ecology.
+I am a **postdoctoral researcher** in the **Bork Group at EMBL**, working at the intersection of bioinformatics and microbial ecology.
 
 My research focuses on understanding the diversity, distribution, and ecological roles of microorganisms at large spatial scales, with a particular interest in nitrogen-fixing microorganisms and microbial biogeography.
 
 I develop computational approaches for analyzing genomic and metagenomic datasets and led the development of [NFixPlanet](https://nfixplanet.embl.de/), a database and toolkit for studying nitrogen-fixing microorganisms.
-
-## Research interests
-
-- Microbial ecology
-- Bioinformatics and metagenomics
-- Nitrogen fixation and diazotrophs
-- Microbial biogeography
-- Comparative genomics
