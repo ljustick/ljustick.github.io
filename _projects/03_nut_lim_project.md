@@ -8,6 +8,20 @@ importance: 3
 #category: work
 ---
 
+<figure style="float: right; width: 50%; margin: 0 0 1.5rem 2rem;">
+  <img
+    src="/assets/img/projects/nutrient_lim.jpeg"
+    class="img-fluid rounded z-depth-1"
+    alt="Global patterns of nutrient limitation"
+  >
+  <figcaption class="caption">
+    Conceptual overview of the genomic approach to nutrient limitation presented in
+    <a href="https://doi.org/10.1126/science.abe6301">Ustick et al. (2021)</a>,
+    illustrated in the accompanying <i>Science</i> Perspective by
+    <a href="https://doi.org/10.1126/science.abi4684">Coleman (2021)</a>.
+  </figcaption>
+</figure>
+
 Nutrient availability constrains biological productivity, yet identifying patterns of nutrient limitation across ecosystems remains challenging. A major theme of my research has been developing and applying microbial genomic indicators of nutrient stress, using adaptations in microbial genomes as biological signatures of the nutrient conditions experienced by microbial communities.
 
 This framework has expanded to integrate omics biomarkers, environmental observations, nutrient-addition experiments, and remote sensing measurements. Ultimately, this work aims to resolve how nutrient limitation varies across space and through time, and how these patterns respond to global environmental change.
