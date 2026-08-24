@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: PEOPLE
-description: Students and early-career researchers I currently mentor or have mentored.
+description: Students and early-career researchers I currently supervise or have supervised.
 nav: true
 nav_order: 4
 
