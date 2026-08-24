@@ -8,6 +8,17 @@ importance: 2
 #category: work
 ---
 
+<figure style="float: right; width: 50%; margin: 0 0 1.5rem 2rem;">
+  <img
+    src="/assets/img/projects/trec_expedition.jpeg"
+    class="img-fluid rounded z-depth-1"
+    alt="sampling map of the TREC expedition"
+  >
+  <figcaption class="caption">
+    Sampling map of the TREC expedition
+  </figcaption>
+</figure>
+
 ## Traversing European Coastlines (TREC)
 
 **TREC (Traversing European Coastlines)** is an EMBL-led expedition investigating the biodiversity and molecular responses of organisms and microbial communities across European coastal ecosystems.

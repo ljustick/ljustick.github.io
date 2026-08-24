@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **postdoctoral researcher** in the **Bork Group at EMBL**, working at the intersection of bioinformatics and microbial ecology.
+I am a postdoctoral researcher in the [Bork Group at EMBL](https://www.embl.org/groups/bork/), working at the intersection of bioinformatics and microbial ecology.
 
 My research focuses on understanding the diversity, distribution, and ecological roles of microorganisms at large spatial scales, with a particular interest in nitrogen-fixing microorganisms and microbial biogeography.
 

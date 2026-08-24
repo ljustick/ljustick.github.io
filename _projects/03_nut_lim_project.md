@@ -12,7 +12,7 @@ importance: 3
   <img
     src="/assets/img/projects/nutrient_lim.jpeg"
     class="img-fluid rounded z-depth-1"
-    alt="Global patterns of nutrient limitation"
+    alt="diagnosing nutrient limitation"
   >
   <figcaption class="caption">
     Conceptual overview of the genomic approach to nutrient limitation presented in
