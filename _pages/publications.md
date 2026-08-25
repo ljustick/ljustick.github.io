@@ -32,18 +32,22 @@ nav_order: 2
 </style>
 
 <div class="pub-filter-buttons mb-4">
-  <button class="btn btn-sm btn-outline-primary active" onclick="showPublications('all', this)">
+  <button class="btn btn-outline-primary active" onclick="showPublications('all', this)">
     All
   </button>
 
-  <button class="btn btn-sm btn-outline-primary" onclick="showPublications('first', this)">
-    First or co-first author
+  <button class="btn btn-outline-primary" onclick="showPublications('first', this)">
+    First author
   </button>
 
-  <button class="btn btn-sm btn-outline-primary" onclick="showPublications('corresponding', this)">
+  <button class="btn btn-outline-primary" onclick="showPublications('corresponding', this)">
     Corresponding author
   </button>
 </div>
+
+<p class="text-muted small mb-4">
+  * Equal contribution / co-first author &nbsp;&nbsp; ✉ Corresponding author
+</p>
 
 <div id="pub-all" class="publications pub-group">
   {% bibliography %}
